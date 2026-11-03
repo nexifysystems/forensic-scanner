@@ -77,7 +77,7 @@ Works on both desktop and mobile.
 
 ## Access
 
-Nexify is licensed per user.
+Nexify Forensic Scanner is licensed per user.
 
 - Website: [forensic.nexifysystems.xyz](https://forensic.nexifysystems.xyz)
 - Discord: [discord.gg/WUrRjx4pBE](https://discord.gg/WUrRjx4pBE)
